@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @JanilaValicky
-- 👀 I’m interested in Dua Lipa
+- 👋 Hi, I’m @DanilaValicky
+- 👀 I am a frontend developer HTML, CSS, JS (React) is my forte
+
 
 
 <!---
