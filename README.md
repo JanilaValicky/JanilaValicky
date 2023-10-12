@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanilaValicky
-- 👀 I am a frontend developer HTML, CSS, JS (React) is my forte
+- 👀 I am a fullstack developer PHP(Laravel), HTML, CSS is my forte
 
 
 
